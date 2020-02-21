@@ -8,6 +8,7 @@
 # THANKS
 
     This is added from my feature branch
+    Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
