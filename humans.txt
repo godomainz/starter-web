@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akila Mendis    akila@gmail.com @akila
 
 # THANKS
 
