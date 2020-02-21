@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    This is added from my feature branch
 
 # TECHNOLOGY COLOPHON
 
